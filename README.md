@@ -3,18 +3,18 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 🚀 Passionate about building **real-world blockchain & security solutions**
-- 🔗 Developed **AgriChain** – blockchain-based agriculture & parametric crop insurance
-- 🛡️ Built **BlockSafeguard** – blockchain-powered DDoS detection & protection system
-- 🖼️ Created **BlockLens** – AI-based image forensics & authenticity verification
-- 🐘 Strong in **DBMS (SQL & NoSQL)** and **Linux systems**
-- 🌱 Currently exploring **advanced blockchain integration & cloud security**
+- Passionate about building **real-world blockchain & security solutions**
+- Developed **AgriChain** – blockchain-based agriculture & parametric crop insurance
+- Built **BlockSafeguard** – blockchain-powered DDoS detection & protection system
+- Created **BlockLens** – AI-based image forensics & authenticity verification
+- Strong in **DBMS (SQL & NoSQL)** and **Linux systems**
+- Currently exploring **advanced blockchain integration & cloud security**
 
 ---
 
-### 🧠 Core Projects
+### Core Projects
 
 - **AgriChain**  
   Blockchain solution for agriculture supply chain and automated crop insurance
@@ -27,7 +27,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -42,7 +42,7 @@
 
 ---
 
-### 🤝 Open To
+### Open To
 
 - Blockchain & Web3 internships
 - Security-focused software projects
@@ -51,7 +51,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sejeeswaran-k-412788305
 - 📧 Email: sejeeswaran369@gmail.com
