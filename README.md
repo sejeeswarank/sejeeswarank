@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sejeeswaran K</h1>
+<h1 align="center">Hi, I'm Sejeeswaran K</h1>
 <h3 align="center">Blockchain Developer | AI & Security Project Builder | Tech Explorer</h3>
 
 ---
@@ -53,9 +53,5 @@
 
 ### Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sejeeswaran-k-412788305
-- 📧 Email: sejeeswaran369@gmail.com
-
----
-
-⚡ **Fun Fact:** I enjoy converting complex real-world problems into secure, scalable, blockchain-backed solutions.
+- LinkedIn: https://www.linkedin.com/in/sejeeswaran-k-412788305
+- Email: sejeeswaran369@gmail.com
