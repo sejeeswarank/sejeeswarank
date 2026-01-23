@@ -6,9 +6,9 @@
 ### About Me
 
 - Passionate about building **real-world blockchain and security solutions**
-- Developed **AgriChain** – blockchain-based agriculture and parametric crop insurance
-- Built **BlockSafeguard** – blockchain-powered DDoS detection and protection system
-- Created **BlockLens** – AI-based image forensics and authenticity verification
+- Developed **AgriChain** – blockchain based agriculture and parametric crop insurance
+- Built **BlockSafeguard** – blockchain powered DDoS detection and protection system
+- Created **BlockLens** – AI based image forensics and authenticity verification
 - Strong in **DBMS (SQL and NoSQL)** and **Linux systems**
 - Currently exploring **advanced blockchain integration and cloud security**
 
@@ -20,10 +20,10 @@
   Blockchain solution for agriculture supply chain and automated crop insurance
 
 - **BlockSafeguard**  
-  Blockchain-backed DDoS attack detection for cloud-hosted websites
+  Blockchain backed DDoS attack detection for cloud hosted websites
 
 - **BlockLens**  
-  AI-powered image tampering and deepfake detection with blockchain verification
+  AI powered image tampering and deepfake detection with blockchain verification
 
 ---
 
@@ -45,9 +45,9 @@
 ### Open To
 
 - Blockchain and Web3 internships
-- Security-focused software projects
+- Security focused software projects
 - AI,Blockchain research and development
-- Open-source collaboration
+- Open source collaboration
 
 ---
 
