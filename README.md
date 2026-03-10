@@ -53,5 +53,5 @@
 
 ### Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/sejeeswaran-k-412788305
+- LinkedIn: https://www.linkedin.com/in/sejeeswaran
 - Email: sejeeswaran369@gmail.com
