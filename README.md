@@ -39,45 +39,7 @@
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity"/>
-  <img src="https://img.shields.io/badge/DBMS-4479A1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-</p>
-
----
-
-### Open To
-
-- Blockchain and Web3 internships
-- Security focused software projects
-- AI,Blockchain research and development
-- Open source collaboration
-
----
-## GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sejeeswaran&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
-[![Sejeeswaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sejeeswaran&show_icons=true&theme=radical&hide_border=true)](https://github.com/sejeeswaran)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sejeeswaran&layout=compact&theme=radical&hide_border=true)](https://github.com/sejeeswaran)
-
-</div>
----
-### Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/sejeeswaran
-- Email: sejeeswaran369@gmail.com
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -96,12 +58,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Blockchain
@@ -123,12 +82,35 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-### Tools & APIs
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Google Drive API](https://img.shields.io/badge/Google%20Drive%20API-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+
+---
+
+### Open To
+
+- Blockchain and Web3 internships
+- Security focused software projects
+- AI,Blockchain research and development
+- Open source collaboration
+
+---
+## GitHub Stats
+
+
+
+![](https://streak-stats.demolab.com?user=sejeeswaran&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api?username=sejeeswaran&show_icons=true&theme=radical&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sejeeswaran&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+
+---
+
+### Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sejeeswaran
+- Email: sejeeswaran369@gmail.com
