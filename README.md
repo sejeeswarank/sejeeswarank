@@ -9,7 +9,7 @@
 - Actively seeking SDE Internship roles in Backend, Blockchain, or Full-Stack development
 - I build end to end systems from Solidity smart contracts to React frontends to cloud deployments
 - Currently deepening expertise in Web3 architecture, AI pipelines, and cloud security
-- Every project I build solves a real problem — agriculture, cybersecurity, healthcare, or personal finance
+- Every project I build solves a real problem agriculture, cybersecurity, healthcare, or personal finance
 - Strong in **DBMS (SQL and NoSQL)** and **Linux systems**
 - Currently exploring **advanced blockchain integration and cloud security**
 
@@ -18,22 +18,22 @@
 ### Projects
 
 * **AgriChain**
-  Decentralized parametric crop insurance — automatic blockchain payouts triggered by real weather oracle data
+  Decentralized parametric crop insurance, automatic blockchain payouts triggered by real weather oracle data
 
 * **KCTracker**
-  Bank statement parser and ledger system — auto-detects 25+ Indian banks with encrypted local storage and Google Drive sync
+  Bank statement parser and ledger system, auto-detects 25+ Indian banks with encrypted local storage and Google Drive sync
 
 * **BlockLens**
-  AI-powered image forensics — detects real, AI-generated, or deepfake images using 6+ model ensemble with blockchain verdict registration
+  AI-powered image forensics, detects real, AI-generated, or deepfake images using 6+ model ensemble with blockchain verdict registration
 
 * **BlockSafeguard**
-  Enterprise DDoS protection — dual-layer AWS + blockchain security with immutable audit trails
+  Enterprise DDoS protection, dual layer AWS and blockchain security with immutable audit trails
 
 * **ChronoCare AI**
-  Chronic disease risk engine — predicts Diabetes, Hypertension, CKD, and CVD using hybrid ML and clinical rules
+  Chronic disease risk engine, predicts Diabetes, Hypertension, CKD, and CVD using hybrid ML and clinical rules
 
 * **SIST Event Calendar**
-  College event management platform — role-based access for Students, Organizers, and Staff with Firebase and Next.js
+  College event management platform, role based access for Students, Organizers, and Staff with Firebase and Next.js
 
 ---
 
