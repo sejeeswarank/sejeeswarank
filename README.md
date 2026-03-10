@@ -6,9 +6,10 @@
 ### About Me
 
 - Passionate about building **real-world blockchain and security solutions**
-- Developed **AgriChain** – blockchain based agriculture and parametric crop insurance
-- Built **BlockSafeguard** – blockchain powered DDoS detection and protection system
-- Created **BlockLens** – AI based image forensics and authenticity verification
+- Actively seeking SDE Internship roles in Backend, Blockchain, or Full-Stack development
+- I build end to end systems from Solidity smart contracts to React frontends to cloud deployments
+- Currently deepening expertise in Web3 architecture, AI pipelines, and cloud security
+- Every project I build solves a real problem — agriculture, cybersecurity, healthcare, or personal finance
 - Strong in **DBMS (SQL and NoSQL)** and **Linux systems**
 - Currently exploring **advanced blockchain integration and cloud security**
 
