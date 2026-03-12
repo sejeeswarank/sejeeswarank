@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sejeeswaran K</h1>
-<h3 align="center">Blockchain Developer | AI and Security Project Builder | Tech Explorer</h3>
+<h3 align="center">Software Development Engineer | Blockchain | AI/ML Builder </h3>
 
 ---
 
